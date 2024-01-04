@@ -6,7 +6,6 @@ import re
 import numpy as np
 import torch
 from sklearn.metrics import classification_report
-from transformers import WEIGHTS_NAME, CONFIG_NAME
 from models import *
 
 
